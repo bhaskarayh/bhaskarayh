@@ -2,29 +2,29 @@
 ### Java Spring Boot Engineer | Microservices Specialist | Full-Stack Developer  
 📍 Jakarta, Indonesia | 🎓 Bachelor’s in Informatics Engineering (GPA: 3.74)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://linkedin.com/in/bhaskarayh)  
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20line-%23D14836)](mailto:bhaskarayh@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://linkedin.com/in/bhaskarayh) 
+<!-- [![Email](https://img.shields.io/badge/Email-Drop%20a%20line-%23D14836)](mailto:bhaskarayh@gmail.com)   -->
 
 ---
 
 ## 🛠️ **Technical Stack**  
 
 ### **Backend & Microservices**  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)  
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?logo=spring&logoColor=white)  
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) 
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?logo=spring&logoColor=white) 
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) 
 
 ### **Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
 
 ### **Frontend & DevOps**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)  
 
 ---
@@ -58,8 +58,8 @@
 ### [Banking Microservices](https://github.com/bhaskarayh/bank-microservices)  
 Spring Cloud-based system for multi-tenant banking APIs with Kafka & Redis.  
 
-### [E-Commerce Platform](https://github.com/bhaskarayh/ecommerce-spring)  
-Full-stack app with React + Spring Boot + PostgreSQL.  
+<!-- ### [E-Commerce Platform](https://github.com/bhaskarayh/ecommerce-spring)  
+Full-stack app with React + Spring Boot + PostgreSQL.   -->
 
 ### [CNN Cat Breed Classifier](https://github.com/bhaskarayh/Image-Classification-7-Cats)  
 Android app with TensorFlow (Academic Project).  
@@ -82,4 +82,5 @@ When not coding, I’m probably:
 
 ### 🤝 **Let’s Collaborate!**  
 Open to **tech discussions**, **open-source contributions**, and **new opportunities**.  
-📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)  
+📫 Reach me: [LinkedIn](https://linkedin.com/in/bhaskarayh) 
+<!-- | [Email](mailto:bhaskarayh@gmail.com)   -->
